@@ -1,0 +1,9 @@
+six==1.13.0
+numpy==1.17.4
+requests
+s3fs
+dask
+boto3
+pandas
+Flask
+sdgym
