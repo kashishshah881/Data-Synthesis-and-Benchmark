@@ -3,6 +3,7 @@ numpy==1.17.4
 requests
 s3fs
 dask
+streamlit
 boto3
 pandas
 Flask
